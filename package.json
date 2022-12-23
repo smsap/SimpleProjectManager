@@ -13,6 +13,6 @@
     }
   },
   "dependencies": {
-    "@sap/cds-dk": "^4.4.1"
+    "@sap/cds-dk": "^6.4.0"
   }
 }
